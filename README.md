@@ -39,6 +39,7 @@ Throughout the course, I learned and implemented:
 
 ---
 
+
 ## 🚀 How to Run
 
 1. Clone the repo:
@@ -51,19 +52,20 @@ Throughout the course, I learned and implemented:
 
 2. Create Virtual Invironment
 
-````bash
+```bash
 python3 -m venv env
 source env/bin/activate
-````
+```
 
 3. Install required dependemcies
 
 ```bash
 pip install -r requirements.txt
-````
-
 
 ```
+
+
+
 ## 🚀 Course Link
 🔗 CS50’s Introduction to Artificial Intelligence with Python
 
@@ -82,4 +84,4 @@ Harvard University & CS50 Team for offering this amazing course.
 The community of learners around the world sharing their insights.
 
 
-````
+```
