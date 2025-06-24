@@ -70,6 +70,10 @@ pip install -r requirements.txt
 🔗 CS50’s Introduction to Artificial Intelligence with Python
 
 
+## 🚀 Certificate Link
+[🔗 CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/dc38f4d4-7a3b-43df-8a02-30b53d0895a7)
+
+
 
 ## 📜 License
 This repository is for educational purposes and personal learning.
