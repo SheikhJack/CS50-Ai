@@ -54,13 +54,16 @@ Throughout the course, I learned and implemented:
 ````bash
 python3 -m venv env
 source env/bin/activate
+````
 
 3. Install required dependemcies
 
 ```bash
 pip install -r requirements.txt
+````
 
 
+```
 ## 🚀 Course Link
 🔗 CS50’s Introduction to Artificial Intelligence with Python
 
