@@ -1,6 +1,6 @@
 # 🤖 CS50's Introduction to Artificial Intelligence with Python
 
-![CS50AI](assets/CS50AI.png)
+![CS50AI](asset/CS50AI.png)
 
 Welcome to my personal repository for **CS50's Introduction to Artificial Intelligence with Python**, a course by Harvard University. This course introduces fundamental concepts in AI, and this repository showcases my solutions, implementations, and insights as I worked through the projects.
 
